@@ -10,7 +10,6 @@ class DataProducer:
 
         # cut the eyes from gray image by the CascadeClassifier
         self.eye_cascade.detectMultiScale(image)
-
         pass
 
 if __name__ == '__main__':
