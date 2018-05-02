@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5887cde-1b70-492d-b3e9-f7711d7c123a" name="Default" comment="" />
+    <list default="true" id="b5887cde-1b70-492d-b3e9-f7711d7c123a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_image/176.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_image/177.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_image/178.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_image/179.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_image/180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_image/181.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_image/182.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_image/183.jpg" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +48,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -60,6 +73,7 @@
     <option name="width" value="1300" />
     <option name="height" value="980" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -126,7 +140,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25080907" />
