@@ -1,6 +1,5 @@
 import cv2
 
-
 class DataProducer:
     eye_cascade = cv2.CascadeClassifier('haarcascade_eye.xml')
     eyeglasses_cascade = cv2.CascadeClassifier('haarcascade_eye_tree_eyeglasses.xml')
@@ -13,6 +12,6 @@ class DataProducer:
         pass
 
 if __name__ == '__main__':
-    im=cv2.imread()
+    im=cv2.imread('test_image/180.jpg')
     dataProducer=DataProducer()
     dataProducer.cutEyeFromImage(im)
