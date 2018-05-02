@@ -9,7 +9,7 @@ class DataProducer:
         # image: gray image
 
         # cut the eyes from gray image by the CascadeClassifier
-        rects = self.eyeglasses_cascade.detectMultiScale(image)
+        rects = self.eye_cascade.detectMultiScale(image)
         eyes = []
         i=0
         for rect in rects:
@@ -22,6 +22,6 @@ class DataProducer:
 
 
 if __name__ == '__main__':
-    im = cv2.imread('../test_image/181.jpg')
+    im = cv2.imread('../test_image/179.jpg')
     dataProducer = DataProducer()
     dataProducer.cutEyeFromImage(im)
